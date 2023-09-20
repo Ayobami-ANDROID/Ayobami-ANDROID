@@ -14,8 +14,9 @@
 - ❓ Ask me about anything related to backend stack and DevOps  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
   
+- Note: this is my second Github page you can check my [First Github Account](https://github.com/xlassix)   
 
 <br/>  
 
