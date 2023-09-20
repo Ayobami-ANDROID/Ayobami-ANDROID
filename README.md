@@ -2,7 +2,7 @@
 
   
 
-### <div align="center">I'm Ayobami, a Backend  developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm Ayobami, a Backend and Devops developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on [decentralized voting system](https://github.com/Ayobami-ANDROID/voting-app)  
@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Blockchain  
   
 
-- ❓ Ask me about anything related to backend stack and related technologies  
+- ❓ Ask me about anything related to backend stack and DevOps  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
