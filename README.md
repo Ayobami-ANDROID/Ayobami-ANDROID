@@ -2,7 +2,7 @@
 
   
 
-### <div align="center">I'm Ayobami, a Backend and Devops developer 👨‍💻 working remotely since 2019 🚀</div>  
+### <div align="center">I'm Ayobami, a FullStack and Devops developer 👨‍💻 working remotely since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on [decentralized voting system](https://github.com/Ayobami-ANDROID/voting-app)  
